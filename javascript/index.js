@@ -1,3 +1,5 @@
+'use strict'
+console.log("Website loaded")
 // Wait for DOM to be fully loaded
 document.addEventListener('DOMContentLoaded', () => {
     const yakshaImage = document.getElementById('yaksha-mask');
