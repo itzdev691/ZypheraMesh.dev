@@ -18,7 +18,7 @@ body {
 /* Middle section with reveal animation */
 .mid-sector {
     background-color: white;
-    height: 284px;
+    height: 384px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -99,7 +99,7 @@ body {
   width: 120px;
   height: 22px;
   border-radius: 20px;
-  color: #514b82;
+  color: #000000;
   border: 2px solid;
   position: absolute;
   opacity: 0;
